@@ -6,5 +6,5 @@
 // @author        anonimni hakerman
 // ==/UserScript==
 
-console.log('Always on focus extension is working.');
+console.log('Extension is working.');
 Object.defineProperty(document, "hidden", { value : false});
