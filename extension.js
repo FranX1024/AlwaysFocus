@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Always on focus
+// @name          AlwaysFocus
 // @namespace     http://www.webmonkey.com
 // @description   Makes sites unable to figure out whether you've left focus on them
 // @match         *://*/*
